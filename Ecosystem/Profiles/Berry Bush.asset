@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48ed0d5fd9884aa8836478fefb68e48c, type: 3}
+  m_Name: Berry Bush
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2786423186042367838, guid: b6f547667dc69b04198395785ca3fec5, type: 3}
+  matureHeight: 1.5
+  minimumStartingGrowth: 0.205
+  dailyGrowth: 0.045
+  minimumLifespan: 95
+  maximumLifespan: 169
+  maturityDays: 36
+  minimumSeedDormancy: 12
+  maximumSeedDormancy: 28
+  leaflessPrefab: {fileID: 0}
+  shedInSeason: 0
+  leaflessDaysBeforeDeath: 0
+  fruitPrefab: {fileID: 930832384291808024, guid: af10d9c6607c82f4d8288f4095b80a7a, type: 3}
+  fruitServings: 3
+  fruitHeight: 0.24

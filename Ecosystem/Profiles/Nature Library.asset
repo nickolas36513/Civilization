@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ef49e01df104eac9c792777e8e720dc, type: 3}
+  m_Name: Nature Library
+  m_EditorClassIdentifier: 
+  treeCategories:
+  - name: Green
+    profiles:
+    - {fileID: 11400000, guid: 0aae9dbdab35eb64081cc72c4533661e, type: 2}
+  bushes:
+  - {fileID: 11400000, guid: e0bae47e67944eef98b944f19bfa345d, type: 2}
+  grass:
+  - {fileID: 9173750690402455373, guid: 134c96ff51198e4cea360c89aaab1411, type: 3}
+  rocks:
+  - {fileID: 2891732737701988682, guid: c4e5e63615c82354489b8865363141a6, type: 3}
